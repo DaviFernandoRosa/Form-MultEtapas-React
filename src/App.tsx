@@ -5,9 +5,7 @@ const App = () => {
   return (
       <FormProvider>
          <Router />
-      </FormProvider>
-     
-    
+      </FormProvider>  
   );
 }
 
